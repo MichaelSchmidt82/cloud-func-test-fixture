@@ -2,7 +2,7 @@
 An HTTP cloud function test fixture.
 
 ### Use:
-1) Open VS Code.
+1) Open this project in VS code.
 2) Write your code in `entrypoint.py` under the `test_fixture` function.
 3) Go to the debug tile on the left.
 4) Set breakpoints in the gutter and press debug -> "Debug fixture" or press `F5`.
