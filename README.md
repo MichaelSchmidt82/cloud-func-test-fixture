@@ -10,7 +10,7 @@ An HTTP cloud function test fixture.
 ### Requirements:
 1) Docker installed and running
 2) VS Code with Docker and Python extensions
-3) Fill credentials.json by creating an API for a service account.
+3) obtain a credentials.json by creating an API key for the service account in the console.
 4) Fill payload.json with the JSON payload of the incoming request.
 
 ### Configure:
